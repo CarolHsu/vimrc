@@ -182,6 +182,9 @@ set smarttab
 set shiftwidth=4
 set tabstop=4
 
+" 1 tab == 2 space
+au FileType ruby setl sw=2 sts=2 et
+
 " Linebreak on 500 characters
 set lbr
 set tw=500
