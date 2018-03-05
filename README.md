@@ -1,3 +1,8 @@
+Base on [amix/vimrc](https://github.com/amix/vimrc), add some of ruby/rails vim tool and settings.
+
+* vim-rails
+* vim-test
+
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
 # The Ultimate vimrc
@@ -155,9 +160,9 @@ Open [MRU.vim](https://github.com/vim-scripts/mru.vim) to see the recently open 
 
     map <leader>f :MRU<CR>
 
-Open [ctrlp.vim](https://github.com/kien/ctrlp.vim) plugin to quickly find a file or a buffer (`<leader>j` or `<ctrl>f`):
+Open [ctrlp.vim](https://github.com/kien/ctrlp.vim) plugin to quickly find a file or a buffer (`<leader>j` or `<ctrl>p`):
     
-    let g:ctrlp_map = '<c-f>'
+    let g:ctrlp_map = '<c-p>'
 
 [NERD Tree](https://github.com/scrooloose/nerdtree) mappings:
 
