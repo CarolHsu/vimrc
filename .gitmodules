@@ -1,3 +1,6 @@
 [submodule "sources_non_forked/vim-rails"]
 	path = sources_non_forked/vim-rails
 	url = git@github.com:tpope/vim-rails.git
+[submodule "sources_non_forked/vim-test"]
+	path = sources_non_forked/vim-test
+	url = git@github.com:janko-m/vim-test.git
