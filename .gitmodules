@@ -4,3 +4,6 @@
 [submodule "sources_non_forked/vim-test"]
 	path = sources_non_forked/vim-test
 	url = git@github.com:janko-m/vim-test.git
+[submodule "sources_non_forked/nerdcommenter"]
+	path = sources_non_forked/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
