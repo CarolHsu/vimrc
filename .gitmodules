@@ -7,3 +7,6 @@
 [submodule "sources_non_forked/nerdcommenter"]
 	path = sources_non_forked/nerdcommenter
 	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "sources_non_forked/vim-easy-align"]
+	path = sources_non_forked/vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
