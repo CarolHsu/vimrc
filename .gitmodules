@@ -10,3 +10,6 @@
 [submodule "sources_non_forked/vim-easy-align"]
 	path = sources_non_forked/vim-easy-align
 	url = git@github.com:junegunn/vim-easy-align.git
+[submodule "sources_non_forked/vim-devicons"]
+	path = sources_non_forked/vim-devicons
+	url = git@github.com:ryanoasis/vim-devicons.git
